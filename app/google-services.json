@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730305242582",
+    "project_id": "notificacionpushapp-fcf36",
+    "storage_bucket": "notificacionpushapp-fcf36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730305242582:android:1093f48d0b84f664027077",
+        "android_client_info": {
+          "package_name": "com.mpierotti.notificacionpush_firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730305242582-u7im2m5r2ikt5vvhstucrd6igafhrijg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZorY1_97NiLMOlWSPLbSIEr9VMmonTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730305242582-u7im2m5r2ikt5vvhstucrd6igafhrijg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
